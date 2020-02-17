@@ -1,0 +1,112 @@
+# Blender MTL File: 'Zelda.blend'
+# Material Count: 10
+newmtl HiZelda_Eye_HiZelda_Eye.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.146341 0.146341 0.146341
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd HiZelda_Eye.png
+
+
+newmtl HiZelda_Eyeball_HiZelda_Eyeball.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd HiZelda_Eyeball.png
+
+
+newmtl HiZelda_Face_HiZelda_Face.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.219512 0.219512 0.219512
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd HiZelda_Face.png
+
+
+newmtl HiZelda_Matuge_HiZelda_Matuge.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd HiZelda_Matuge.png
+
+
+newmtl HiZelda_hand.001_HiZelda_hand.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd HiZelda_hand.png
+
+
+newmtl HiZelda_hand.002_HiZelda_hand.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd HiZelda_hand.png
+
+
+newmtl ZeldaG_HairAccessory_ZeldaG_HairAccessory.
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ZeldaG_HairAccessory.png
+
+
+newmtl ZeldaG_Hair_ZeldaG_Hair.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.170732 0.170732 0.170732
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ZeldaG_Hair.png
+
+
+newmtl ZeldaG_accessory_ZeldaG_accessory.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.548781 0.548781 0.548781
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Zelda.blend\ZeldaG_accessory.png
+
+
+newmtl ZeldaG_body_ZeldaG_body.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Zelda.blend\ZeldaG_body.png
+
+
